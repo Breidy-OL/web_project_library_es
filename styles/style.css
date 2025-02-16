@@ -127,8 +127,9 @@
   gap: 40px;
   list-style-type: none;
   max-width: 760px;
-  margin: 0 auto;
+  margin: 68 px auto 0;
   padding: 0;
+  justify-content: center;
 }
 
 .card {
